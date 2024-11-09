@@ -1,11 +1,13 @@
-import MemoLesson from "./MemoLesson.jsx"
+// import MemoLesson from "./MemoLesson.jsx"
+// import Count from "./Count.jsx"
+import InterestCalculator from "./Interest.jsx"
 
 function App() {
   
 
   return (
     <div>
-      <MemoLesson />
+      <InterestCalculator />
     </div>
       
   )
